@@ -1,0 +1,52 @@
+.containerCount {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 20px;
+  font-size: calc(5px + 1.5vmin);
+  text-align: center;
+}
+
+.btnCard {
+  font-family: auto;
+  margin: 0px 10px;
+  width: 35px;
+  height: 35px;
+  background-color: #fffd93;
+  border-color: #fffd93;
+  color: #a65bec;
+  font-weight: bolder;
+}
+
+.btnCard:disabled {
+  font-family: auto;
+  margin: 0px 10px;
+  width: 35px;
+  height: 35px;
+  border-color: #fffd93;
+  background-color: #fffd93;
+  color: #a65bec;
+  font-weight: bolder;
+}
+
+.btnAdd {
+  color: #a65bec;
+  margin: 0px 10px;
+  background-color: #fffd93;
+  border-color: #fffd93;
+  display: block;
+  margin-top: 10px;
+  margin-inline: auto;
+}
+
+div.card-body {
+  background-color: #a65bec;
+  color: #fff;
+}
+
+img.card-img-top {
+  margin: 10px;
+  width: 150px;
+  height: 180px;
+  align-self: center;
+}

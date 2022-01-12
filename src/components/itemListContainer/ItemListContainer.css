@@ -1,0 +1,12 @@
+/* p {
+  background-color: blueviolet;
+  min-height: 50vh;
+  max-width: 60vw;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-inline: auto;
+  margin-top: 40px;
+  font-size: calc(20px + 2vmax);
+  text-align: center;
+} */
